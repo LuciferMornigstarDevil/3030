@@ -50,9 +50,9 @@ async def start(bot, update):
         InlineKeyboardButton('⚠️ 𝙅𝙊𝙄𝙉', url='https://t.me/movieshub43'),
         InlineKeyboardButton('🧑‍🎤 𝘾𝙍𝙀𝘼𝙏𝙊𝙍', url ='https://t.me/Lucifer8880')
     ],[
-        InlineKeyboardButton('⚠️ 𝙅𝙊𝙄𝙉', url='https://t.me/movieshub43'),
+        InlineKeyboardButton('🎖 𝙅𝙊𝙄𝙉 𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇🎖', url='https://t.me/movieshub39'),
     ],[
-        InlineKeyboardButton('💡𝙃𝙀𝙇𝙋', callback_data="help"),
+        InlineKeyboardButton('💡𝙃𝙀𝙇𝙋', callback_data="help")
         InlineKeyboardButton('🔐 𝘾𝙇𝙊𝙎𝙀', callback_data="close")
        ]]
     

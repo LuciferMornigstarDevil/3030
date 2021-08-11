@@ -10,7 +10,7 @@ class Translation(object):
  ആണ്
 
 നോക്കണ്ടാ എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല
-<i><a href="https://t.me/Lucifer8880">Tʜɪs Pᴇʀsᴏɴ</a></i></b>
+Mᴀɪɴᴛᴀɪɴᴇᴅ<a href="https://t.me/Lucifer8880">Tʜɪs Pᴇʀsᴏɴ</a></b>
 </i>"""    
     
     HELP_TEXT = """

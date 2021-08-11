@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hey {} !!
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ഞാൻ 𝗰𝗶𝗻𝗲𝗺𝗮 𝘇𝗶𝗹𝗹𝗮 എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട്  
+ ആണ്
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+നോക്കണ്ടാ എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല
+@CrazyBotsz</b>
 </i>"""    
     
     HELP_TEXT = """

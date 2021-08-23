@@ -4,17 +4,15 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>Hey {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>I ᴀᴍ ᴊᴜsᴛ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ᴛᴏ ᴡᴏʀᴋ ɪɴ 𝕄𝕒𝕝𝕒𝕪𝕒𝕝𝕒𝕞 ℝ𝕠𝕔𝕜𝕖𝕣𝕤 𝔾𝕣𝕠𝕦𝕡. 😉.</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b>𝙔𝙤𝙪 𝘾𝙖𝙣'𝙩 𝘼𝙙𝙙 𝙈𝙚 𝙩𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 😸!!</b>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
+<b>You can create Your own by Clicking on Deploy Yours !!! 💯</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<b>🔹Team Movies World🔹 </b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -46,14 +44,14 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></b>
+<b><a href="https://t.me/Lucifer8880">Dark Angel</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
+<b>➥ 🕵‍♂️Creator</b> : <b>@Lucifer8880</b> 
 
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 👨‍💻Editor</b> : <b>@Lucifer8880</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
